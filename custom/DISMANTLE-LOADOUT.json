@@ -1,0 +1,253 @@
+{
+  "name": "Player",
+  "spawnWeight": 1,
+  "characterTypes": [],
+  "attachmentSlotItemSets": [
+    {
+      "slotName": "shoulderL",
+      "discreteItemSets": [
+        {
+          "itemType": "AKM",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "shoulderR",
+      "discreteItemSets": [
+        {
+          "itemType": "M79",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Vest",
+      "discreteItemSets": [
+        {
+          "itemType": "HighCapacityVest_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "RGD5Grenade",
+            "RGD5Grenade",
+            "RGD5Grenade",
+            "RGD5Grenade",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Headgear",
+      "discreteItemSets": [
+        {
+          "itemType": "BallisticHelmet_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Gloves",
+      "discreteItemSets": [
+        {
+          "itemType": "TacticalGloves_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Body",
+      "discreteItemSets": [
+        {
+          "itemType": "FirefighterJacket_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Legs",
+      "discreteItemSets": [
+        {
+          "itemType": "FirefightersPants_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd",
+            "AmmoBox_762x39_20Rnd"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Feet",
+      "discreteItemSets": [
+        {
+          "itemType": "CombatBoots_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [],
+          "complexChildrenTypes": []
+        }
+      ]
+    },
+    {
+      "slotName": "Back",
+      "discreteItemSets": [
+        {
+          "itemType": "AliceBag_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "Hatchet",
+            "Mag_AKM_Drum75Rnd",
+            "Whetstone",
+            "Whetstone",
+            "ChernarusMap",
+            "Pliers",
+            "WeaponCleaningKit",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "Ammo_40mm_Explosive",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_545x39_20Rnd",
+            "AmmoBox_545x39_20Rnd"
+          ],
+          "complexChildrenTypes": [
+          ]
+        }
+      ]
+    },
+    {
+      "slotName": "Hips",
+      "discreteItemSets": [
+        {
+          "itemType": "HipPack_Black",
+          "spawnWeight": 1,
+          "attributes": {
+            "healthMin": 1,
+            "healthMax": 1,
+            "quantityMin": 1,
+            "quantityMax": 1
+          },
+          "quickBarSlot": -1,
+          "simpleChildrenUseDefaultAttributes": false,
+          "simpleChildrenTypes": [
+            "BandageDressing",
+            "BandageDressing",
+            "Candycane_Red"
+          ],
+          "complexChildrenTypes": []
+        }
+      ]
+    }
+  ],
+  "discreteUnsortedItemSets": []
+}
