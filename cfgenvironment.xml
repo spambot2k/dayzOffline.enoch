@@ -12,7 +12,7 @@
 		<file path="env/hare_territories.xml" />
 		<file path="env/fox_territories.xml" />
 		<file path="env/wolf_territories.xml" />		
-		<!-- <file path="env/hare_territories.xml" /> -->
+		<!-- <file path="env/hare_territories.xml" /> only used for Sahkal -->
 		<file path="env/zombie_territories.xml" />		
 		<file path="env/bear_territories.xml" />
 
